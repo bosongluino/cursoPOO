@@ -7,7 +7,7 @@ public class Test {
 		
 		System.out.println("este mensaje saldra por consola");
 		short a, b;
-		a = 45;
+		a = 8;
 		b = 30;
 		System.out.println("a = " + a);
 		System.out.println("b = " + b);
